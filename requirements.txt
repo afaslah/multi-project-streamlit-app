@@ -1,0 +1,11 @@
+streamlit
+ultralytics
+opencv-python
+mediapipe
+scikit-learn
+joblib
+pandas
+nltk
+plotly
+gradio
+numpy
